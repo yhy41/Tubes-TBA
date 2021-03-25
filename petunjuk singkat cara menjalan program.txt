@@ -1,0 +1,5 @@
+cara menjalan kan program : 
+	run program 
+	masukan String yang ingin di periksa
+	dan setiap string di inputkan di kasih pembatas (spasi)
+	kecuali untuk "(" dan ")" tidak perlu menggunkan (spasi) 
